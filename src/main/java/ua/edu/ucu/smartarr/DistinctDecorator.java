@@ -1,9 +1,6 @@
 package ua.edu.ucu.smartarr;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.stream.Collector;
-import java.util.stream.Collectors;
 
 // Remove duplicates from SmartArray. Use method equals() to compare objects
 public class DistinctDecorator extends SmartArrayDecorator {
